@@ -5,6 +5,9 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Random%20Forest-orange.svg)](https://scikit-learn.org/)
 [![QGIS](https://img.shields.io/badge/QGIS-Web%20Mapping-lightgrey.svg)](https://qgis.org/)
 
+<p align="center">
+  <img src="mombasa_map.png" alt="Mombasa Land Cover Classification Map" width="800">
+</p>
 ##  Project Overview
 This project demonstrates an end-to-end geospatial machine learning pipeline. It takes raw, multi-spectral satellite imagery of Mombasa, Kenya, translates the spatial data into a tabular format, trains a machine learning classifier to identify distinct spectral signatures, and reconstructs the predictions into a fully interactive web map. 
 
