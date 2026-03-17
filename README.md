@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://github.com/Levice085/mombasa_ml_classification/blob/main/mombasa_land_cover_screenshot.PNG" alt="Mombasa Land Cover Classification Map" width="800">
+  
 </p>
 ##  Project Overview
 This project demonstrates an end-to-end geospatial machine learning pipeline. It takes raw, multi-spectral satellite imagery of Mombasa, Kenya, translates the spatial data into a tabular format, trains a machine learning classifier to identify distinct spectral signatures, and reconstructs the predictions into a fully interactive web map. 
