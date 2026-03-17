@@ -10,7 +10,7 @@ This project demonstrates an end-to-end geospatial machine learning pipeline. It
 
 The model successfully categorizes every 10-meter pixel into one of four distinct land cover classes: **Water**, **Urban (Built-up)**, **Bareground** and **Vegetation**, achieving an **Overall Accuracy of 89%**.
 
- **[View the Live Interactive Map Here](https://levice085.github.io/mombasa-landcover-ml)**
+ **[View the Live Interactive Map Here](https://levice085.github.io/mombasa_ml_classification/)**
 
 ---
 
